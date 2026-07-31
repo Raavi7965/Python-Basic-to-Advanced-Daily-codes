@@ -13,7 +13,7 @@ fruits=['guava','apple','banana','mango']
 print(fruits[-3])
 print(fruits[-1])
 
-double indexing
+#double indexing
 
 kalakaarulu=['vyshu','koustish']
 print(kalakaarulu[1][1])
